@@ -28,10 +28,11 @@ npx prisma migrate dev --name init
 npx prisma studio
 ```
 
-
-
 ```
 # For multiple dot envs
 npm i dotenv-cli
 ```
 
+## About Next.js
+
+With NextJS we can use server-side compilation. That way, at least some content of our app will still be displayed, even without broser-side Javascript enabled.
