@@ -15,6 +15,7 @@ npx tailwindcss init -p
 ```
 
 Installing Prisma
+Link: https://supabase.com/docs/guides/integrations/prisma
 ```powershell
 npm install prisma;
 npx prisma init
