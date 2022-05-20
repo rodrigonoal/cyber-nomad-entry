@@ -30,3 +30,8 @@ npx prisma studio
 
 
 
+```
+# For multiple dot envs
+npm i dotenv-cli
+```
+
