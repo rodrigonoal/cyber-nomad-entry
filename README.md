@@ -9,13 +9,13 @@ npx create-next-app@latest --ts
 Installing TailwindCSS
 Link: https://tailwindcss.com/docs/guides/nextjs
 
-````powershell
+```powershell
 npm install -D tailwindcss postcss autoprefixer;
 npx tailwindcss init -p
 ```
 
 Installing Prisma
-```
+```powershell
 npm install prisma;
 npx prisma init
 
